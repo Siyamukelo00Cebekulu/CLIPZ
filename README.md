@@ -4,8 +4,18 @@
 CLIPZ  is a web-platform for uplaoding and sharing gaming highlights
 
 # Project Features
-Authentication
-Routing
-video Processing
-State Managment
-...and more
+**USERS**
+Login
+Registration
+Authentication Persistence
+**Video**
+Upload
+Manage
+View
+
+# User System
+UI
+Form Validation
+Database
+State Management
+

@@ -1,0 +1,22 @@
+High-Level Features
+**System Features**
+1. Login
+2. Registration
+3. Authentication
+
+**User features**
+1. Upload
+2. Manage
+3. View
+
+**System Features**
+UI   --- User interaction
+Form validation ---- User information
+Database --- Store User information
+State Managment  ---
+
+
+**UI <---> Design**
+Navigation Component ---> Model Component ---> Login/Register Components ---> Tabs Component
+
+
